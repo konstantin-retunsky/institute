@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\MS_1\MS_1\bin\Debug\MS_1.exe.config
+C:\Users\ACER\source\repos\MS_1\MS_1\bin\Debug\MS_1.exe
+C:\Users\ACER\source\repos\MS_1\MS_1\bin\Debug\MS_1.pdb
+C:\Users\ACER\source\repos\MS_1\MS_1\obj\Debug\MS_1.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\MS_1\MS_1\obj\Debug\MS_1.Form1.resources
+C:\Users\ACER\source\repos\MS_1\MS_1\obj\Debug\MS_1.Properties.Resources.resources
+C:\Users\ACER\source\repos\MS_1\MS_1\obj\Debug\MS_1.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\MS_1\MS_1\obj\Debug\MS_1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MS_1\MS_1\obj\Debug\MS_1.exe
+C:\Users\ACER\source\repos\MS_1\MS_1\obj\Debug\MS_1.pdb

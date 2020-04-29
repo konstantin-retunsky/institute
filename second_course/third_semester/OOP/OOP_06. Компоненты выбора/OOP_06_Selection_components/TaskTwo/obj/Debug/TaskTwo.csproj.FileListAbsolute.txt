@@ -1,0 +1,9 @@
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\obj\Debug\TaskTwo.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\obj\Debug\TaskTwo.MainForm.resources
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\obj\Debug\TaskTwo.Properties.Resources.resources
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\obj\Debug\TaskTwo.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\bin\Debug\TaskTwo.exe.config
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\bin\Debug\TaskTwo.exe
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\bin\Debug\TaskTwo.pdb
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\obj\Debug\TaskTwo.exe
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskTwo\obj\Debug\TaskTwo.pdb

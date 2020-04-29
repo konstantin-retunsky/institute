@@ -1,0 +1,79 @@
+
+body {
+    background-image: url(bg-illu4.jpg);
+    background-size: 100%;
+    font-family: arial;
+}
+.grid-item:hover{
+    background-color: #444588;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
+    grid-template-columns: 200px 200px 200px;
+    height: 600px;
+    width: 600px;
+    margin: 4% auto auto auto;
+}
+
+.grid-item {
+    text-align: center;
+    font-size: 1.4em;
+    padding: 70px 45px 0px 45px;
+    color: white;
+}
+
+.logo {
+    text-align: center;
+    color: #c0b6c1;
+}
+
+img {
+    width: 120px;
+    margin: 40px 40px 12px 40px;
+}
+
+.color1 {
+    background-color: #880088;
+}
+
+.color2 {
+    background-color: #010088;
+}
+
+.color3 {
+    background-color: #880000;
+}
+
+@media only screen and (max-width : 600px) {
+    body {
+        background-image: url(bg-illu1.jpg);
+        background-size: 100% 100%;
+        font-family: Verdana;
+    }
+
+    .grid-container {
+        grid-template-rows: auto;
+        grid-template-columns: auto;
+        grid-row-gap: 20px;
+        width: 285px
+    }
+
+    .grid-item {
+        text-align: center;
+        font-size: 1.2em;
+        padding: 12px 12px 12px 12px;
+        font-weight: 600;
+    }
+    
+    .logo {
+     font-size: 0;
+    }
+    
+    img {
+    width: 90px;
+    margin: -22px 0px -26px 0px;
+}
+    
+   

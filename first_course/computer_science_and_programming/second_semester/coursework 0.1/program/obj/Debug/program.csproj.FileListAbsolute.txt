@@ -1,0 +1,39 @@
+D:\institute\computer science and programming\second semester\coursework\program\bin\Debug\program.exe.config
+D:\institute\computer science and programming\second semester\coursework\program\bin\Debug\program.exe
+D:\institute\computer science and programming\second semester\coursework\program\bin\Debug\program.pdb
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.csprojAssemblyReference.cache
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.Properties.Resources.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.csproj.GenerateResource.cache
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.exe
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.pdb
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.fMain.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.FormAdd.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.FormEdit.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.FormSearch.resources
+F:\institute\computer science and programming\second semester\coursework\program\bin\Debug\program.exe.config
+F:\institute\computer science and programming\second semester\coursework\program\bin\Debug\program.exe
+F:\institute\computer science and programming\second semester\coursework\program\bin\Debug\program.pdb
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.csprojAssemblyReference.cache
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.fMain.resources
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.FormAdd.resources
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.FormEdit.resources
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.FormSearch.resources
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.Properties.Resources.resources
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.csproj.GenerateResource.cache
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.exe
+F:\institute\computer science and programming\second semester\coursework\program\obj\Debug\program.pdb
+D:\institute\first course\computer science and programming\second semester\coursework\program\bin\Debug\program.exe.config
+D:\institute\first course\computer science and programming\second semester\coursework\program\bin\Debug\program.exe
+D:\institute\first course\computer science and programming\second semester\coursework\program\bin\Debug\program.pdb
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.csprojAssemblyReference.cache
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.fMain.resources
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.FormAdd.resources
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.FormEdit.resources
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.FormSearch.resources
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.Properties.Resources.resources
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.csproj.GenerateResource.cache
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.exe
+D:\institute\first course\computer science and programming\second semester\coursework\program\obj\Debug\program.pdb

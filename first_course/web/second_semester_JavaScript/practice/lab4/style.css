@@ -1,0 +1,27 @@
+
+form {
+  background: rgb(208, 209, 204);
+  border: 1px solid rgb(208, 209, 204);
+  box-shadow: 0 0 10px rgb(133, 133, 133);
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  padding: 20px 0px 0 30px;
+}
+
+.asd {
+  float: left;
+}
+
+
+img {
+  width: 150px;
+  height: 150px;
+  position: fixed;
+  visibility: hidden;
+
+}
+
+.groupChb {
+  float: left;
+}

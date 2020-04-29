@@ -1,0 +1,210 @@
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\bin\Debug\Babeshin.exe.config
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\bin\Debug\Babeshin.exe
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\bin\Debug\Babeshin.pdb
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.Form1.resources
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.readersForm.resources
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.exe
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.pdb
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.booksForm.resources
+C:\Users\babes\Desktop\КУРСОВАЯ\Babeshin\Babeshin\obj\Debug\Babeshin.Output.resources
+F:\Курсач\Babeshin\Babeshin\bin\Debug\Babeshin.exe.config
+F:\Курсач\Babeshin\Babeshin\bin\Debug\Babeshin.exe
+F:\Курсач\Babeshin\Babeshin\bin\Debug\Babeshin.pdb
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.booksForm.resources
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.Form1.resources
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.Output.resources
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.readersForm.resources
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.exe
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.pdb
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\bin\Debug\Babeshin.exe.config
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\bin\Debug\Babeshin.exe
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\bin\Debug\Babeshin.pdb
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.booksForm.resources
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.Form1.resources
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.Output.resources
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.readersForm.resources
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.exe
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.pdb
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.itog.resources
+F:\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.itog.resources
+C:\Users\babes\Desktop\Курсач\Babeshin\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\bin\Debug\Babeshin.exe.config
+D:\Курсач\Babeshin_version_2.0\Babeshin\bin\Debug\Babeshin.exe
+D:\Курсач\Babeshin_version_2.0\Babeshin\bin\Debug\Babeshin.pdb
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.booksForm.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Form1.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.itog.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Output.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.readersForm.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.exe
+D:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.pdb
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.booksForm.resources
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Form1.resources
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.itog.resources
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Output.resources
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.readersForm.resources
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.exe
+F:\Курсач\Babeshin_version_2.0\Babeshin\obj\Debug\Babeshin.pdb
+F:\Курсач\Babeshin_version_2.0\Babeshin\bin\Debug\Babeshin.exe.config
+F:\Курсач\Babeshin_version_2.0\Babeshin\bin\Debug\Babeshin.exe
+F:\Курсач\Babeshin_version_2.0\Babeshin\bin\Debug\Babeshin.pdb
+D:\Курсач\Babeshin_version_3.0\Babeshin\bin\Debug\Babeshin.exe.config
+D:\Курсач\Babeshin_version_3.0\Babeshin\bin\Debug\Babeshin.exe
+D:\Курсач\Babeshin_version_3.0\Babeshin\bin\Debug\Babeshin.pdb
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.booksForm.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.Form1.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.itog.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.Output.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.readersForm.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.exe
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.pdb
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.parametrs.resources
+D:\Курсач\Babeshin_version_3.0\Babeshin\obj\Debug\Babeshin.About.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\Babeshin.exe.config
+D:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\Babeshin.exe
+D:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\Babeshin.pdb
+D:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.ResolveComReference.cache
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.About.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.booksForm.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Form1.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.itog.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Output.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.parametrs.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.readersForm.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.CopyComplete
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.exe
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.pdb
+F:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\Babeshin.exe.config
+F:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\Babeshin.exe
+F:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\Babeshin.pdb
+F:\Курсач\Babeshin_version_3.1\Babeshin\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.ResolveComReference.cache
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.About.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.booksForm.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Form1.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.itog.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Output.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.parametrs.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.readersForm.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.CopyComplete
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.exe
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.pdb
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.ResolveComReference.cache
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.About.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.booksForm.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Form1.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.itog.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Output.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.parametrs.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.readersForm.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.exe
+E:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.pdb
+F:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.request.resources
+D:\Курсач\Babeshin_version_3.1\Babeshin\obj\Debug\Babeshin.request.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.exe.config
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.exe
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.pdb
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\DocumentFormat.OpenXml.xml
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.ResolveComReference.cache
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.About.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.booksForm.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Form1.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.itog.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Output.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.parametrs.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.readersForm.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.request.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.CopyComplete
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.exe
+D:\institute\computer science and programming\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.pdb
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.exe.config
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.pdb
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\DocumentFormat.OpenXml.xml
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.ResolveComReference.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.About.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.booksForm.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Form1.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.itog.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Output.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.parametrs.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.readersForm.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.request.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.CopyComplete
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.pdb
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.exe.config
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.exe
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\Babeshin.pdb
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\bin\Debug\DocumentFormat.OpenXml.xml
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csprojAssemblyReference.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.ResolveComReference.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.About.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.booksForm.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Form1.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.itog.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Output.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.parametrs.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Properties.Resources.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.readersForm.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.request.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.Subtabs.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.GenerateResource.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.CoreCompileInputs.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.csproj.CopyComplete
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.exe
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd2\Библиотека Бабешин ПИ185-2\Babeshin\obj\Debug\Babeshin.pdb

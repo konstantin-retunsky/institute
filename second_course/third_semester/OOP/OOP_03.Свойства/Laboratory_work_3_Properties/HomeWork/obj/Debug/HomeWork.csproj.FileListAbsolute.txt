@@ -1,0 +1,13 @@
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\bin\Debug\HomeWork.exe.config
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\bin\Debug\HomeWork.exe
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\bin\Debug\HomeWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\obj\Debug\HomeWork.exe
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\obj\Debug\HomeWork.pdb
+D:\institute\second course\third semester\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\bin\Debug\HomeWork.exe.config
+D:\institute\second course\third semester\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\bin\Debug\HomeWork.exe
+D:\institute\second course\third semester\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\bin\Debug\HomeWork.pdb
+D:\institute\second course\third semester\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+D:\institute\second course\third semester\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+D:\institute\second course\third semester\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\obj\Debug\HomeWork.exe
+D:\institute\second course\third semester\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\HomeWork\obj\Debug\HomeWork.pdb

@@ -1,0 +1,77 @@
+<html>
+<head>
+<style>
+div {
+    margin: 100px 10px;
+    width: 300px;
+    height: 100px;
+    background: #000;
+    color: #7FFF00;
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 30pt;
+    text-align: center;
+    transition: all 0.9s ease;
+    display: inline-block;
+  }
+
+/* ВРАЩЕНИЕ БЛОКА ВОКРУГ ОСИ Х*/
+.rotate:hover {
+    -webkit-transform: rotateX(-180deg);
+    -ms-transform: rotateX(-180deg);
+    transform: rotateX(-180deg);
+  }
+
+  /* ВРАЩЕНИЕ БЛОКА ВОКРУГ ОСИ Y*/
+.rotate:hover {
+    -webkit-transform: rotateY(-90deg);
+    -ms-transform: rotateY(-90deg);
+    transform: rotateY(-90deg);
+  }
+
+
+  /* ВРАЩЕНИЕ БЛОКА ВОКРУГ ОСИ Z*/
+.rotate:hover {
+    -webkit-transform: rotateZ(-360deg);
+    -ms-transform: rotateZ(-360deg);
+    transform: rotateZ(-360deg);
+  }
+
+  /* УВЕЛИЧЕНИЕ */
+.scalemaxmin:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+  }
+
+/* Медленное исчезновение через прозрачность */
+.fade {
+  opacity: 0.2;
+}
+
+.fade:hover {
+  opacity: 1;
+}
+
+/* Трансформация в эллипс */
+.circle:hover {
+  border-radius: 100%;
+}
+
+
+
+</style>
+</head>
+<body>
+
+<div class="rotate">Rotate</div>
+
+<div class="scalemaxmin">Maх</div>
+
+<div class="fade">Transparent</div>
+
+<div class="circle">radius</div>
+
+<div class="three">3d text</div>
+
+</body>

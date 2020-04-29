@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+﻿<html lang="en">
+﻿<head>
+﻿     <meta charset="UTF-8">
+﻿     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+﻿     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+﻿     <title>lab3_2</title>
+     <link rel="stylesheet" href="style.css">
+     <script type="text/javascript" src="javaScript.js"></script>
+﻿</head>
+﻿<body>
+
+     <form class="main" name="fMain">
+          Преподаватель <input style = "width: 330px;" type="text" name="nameTeacher">
+          <h4>Показатель</h4>
+          <p> Соотвествие учебной программе <p/> <fieldset class="positFildset" name="matchingCurriculum">
+               <legend>Оценка</legend>
+               2<input class="rbClass" type="radio" name="rbMC" value="2">
+               3<input class="rbClass" type="radio" name="rbMC" value="3">
+               4<input class="rbClass" type="radio" name="rbMC" value="4">
+               5<input class="rbClass" type="radio" name="rbMC" value="5">
+          </fieldset>
+          <br><br><br><br>
+          <p> Учет специфики аудитории </p> <fieldset class="positFildset" name="audienceSpecificity">
+               2<input class="rbClass" type="radio" name="rbAS" value="2">
+               3<input class="rbClass" type="radio" name="rbAS" value="3">
+               4<input class="rbClass" type="radio" name="rbAS" value="4">
+               5<input class="rbClass" type="radio" name="rbAS" value="5">
+          </fieldset>
+          <br><br><br><br>
+          <p> Доступность изложения </p> <fieldset class="positFildset" name="presentationAvailability">
+               2<input class="rbClass" type="radio" name="rbPA" value="2">
+               3<input class="rbClass" type="radio" name="rbPA" value="3">
+               4<input class="rbClass" type="radio" name="rbPA" value="4">
+               5<input class="rbClass" type="radio" name="rbPA" value="5">
+          </fieldset>
+          <br><br><br><br>
+          <p> Использование новых методов обучения </p> <fieldset class="positFildset" name="newMethod">
+               2<input class="rbClass" type="radio" name="rbNM" value="2">
+               3<input class="rbClass" type="radio" name="rbNM" value="3">
+               4<input class="rbClass" type="radio" name="rbNM" value="4">
+               5<input class="rbClass" type="radio" name="rbNM" value="5">
+          </fieldset><br><br>
+          <br>Качество преподавателя:
+          <textarea name="textArea" rows="6" cols="52"></textarea>
+          <br><input type="button" name="btnCalc" onclick="calcForm()" value="calcForm">
+          <input type="reset" value="reset">
+     </form>
+﻿
+﻿</body>
+﻿</html>

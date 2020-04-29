@@ -1,0 +1,6 @@
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Laboratory_work_1 _Simple_classes\bin\Debug\Laboratory_work_1 _Simple_classes.exe.config
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Laboratory_work_1 _Simple_classes\bin\Debug\Laboratory_work_1 _Simple_classes.exe
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Laboratory_work_1 _Simple_classes\bin\Debug\Laboratory_work_1 _Simple_classes.pdb
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Laboratory_work_1 _Simple_classes\obj\Debug\Laboratory_work_1 _Simple_classes.exe
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Laboratory_work_1 _Simple_classes\obj\Debug\Laboratory_work_1 _Simple_classes.pdb
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Laboratory_work_1 _Simple_classes\obj\Debug\Classwork.csprojAssemblyReference.cache

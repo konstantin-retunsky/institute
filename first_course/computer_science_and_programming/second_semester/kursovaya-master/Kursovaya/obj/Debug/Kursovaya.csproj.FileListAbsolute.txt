@@ -1,0 +1,104 @@
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Clients.resources
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Totals.resources
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Cars.resources
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Lease.resources
+C:\Users\vahep\source\repos\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Subtabs.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe.config
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.pdb
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Cars.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Clients.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Lease.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Subtabs.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Totals.resources
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.Cache
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.exe
+D:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Cars.resources
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Clients.resources
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Lease.resources
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Subtabs.resources
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Totals.resources
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.exe
+F:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.pdb
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe.config
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.pdb
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Cars.resources
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Clients.resources
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Lease.resources
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Subtabs.resources
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Totals.resources
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.exe
+E:\Мои файлы\Информатика и Программирование\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.pdb
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe.config
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.pdb
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Cars.resources
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Clients.resources
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Lease.resources
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Subtabs.resources
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Totals.resources
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.exe
+D:\institute\computer science and programming\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Cars.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Clients.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Lease.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Subtabs.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Totals.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.pdb
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.exe
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Cars.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Clients.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Lease.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Subtabs.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.Totals.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.exe
+C:\N\institute\computer science and programming\second semester\kursovaya-master\Kursovaya\obj\Debug\Kursovaya.pdb

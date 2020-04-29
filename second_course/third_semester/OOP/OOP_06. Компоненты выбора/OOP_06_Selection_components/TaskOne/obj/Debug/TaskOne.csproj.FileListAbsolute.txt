@@ -1,0 +1,28 @@
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.exe.config
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.exe
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.pdb
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.MainForm.resources
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.Properties.Resources.resources
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.exe
+D:\ValiuS\Desktop\OOP\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.pdb
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.exe.config
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.exe
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.pdb
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.MainForm.resources
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.Properties.Resources.resources
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.exe
+D:\ValiuS\Desktop\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.pdb
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.exe.config
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.exe
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\bin\Debug\TaskOne.pdb
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.csprojAssemblyReference.cache
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.MainForm.resources
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.Properties.Resources.resources
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.csproj.GenerateResource.cache
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.csproj.CoreCompileInputs.cache
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.exe
+D:\institute\second course\third semester\OOP\OOP_06. Компоненты выбора\OOP_06_Selection_components\TaskOne\obj\Debug\TaskOne.pdb

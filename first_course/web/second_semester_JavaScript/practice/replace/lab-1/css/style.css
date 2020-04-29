@@ -1,0 +1,23 @@
+/*
+Форма у нас одна на странице ;D
+*/
+form {
+   width: min-content;
+   margin: 0 auto;
+   padding: 15px;
+   padding-right: 40px;
+   background-color: gainsboro;
+}
+li {
+   margin-top: 10px;
+}
+label{
+   display: block;
+}
+form h1 {
+   text-align: center;
+}
+
+/*
+как бы все :D
+*/

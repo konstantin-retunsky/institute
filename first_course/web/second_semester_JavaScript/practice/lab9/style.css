@@ -1,0 +1,51 @@
+/*
+new window
+*/
+img {
+   display: block; 
+   margin:  auto;
+   width: 300px;
+   
+}
+h1 {
+   text-align: center;
+}
+
+span {
+text-align: center;
+}
+
+#mainDiv {
+   text-align: center;
+}
+
+/*
+Main
+*/
+form {
+   background: pink;
+   border: solid 1px grey;
+   width: 500px;
+   height: 500px;
+   margin: auto;
+}
+
+input {
+   margin: 20px;
+}
+
+
+
+fieldset {
+   margin: 20px;
+}
+
+#btnShow {
+   float: left;
+   margin:  0 0 0 100px;
+}
+
+#btnRest {
+   float: right;
+   margin: 0 100px 0 0;
+}

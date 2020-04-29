@@ -1,0 +1,64 @@
+F:\summer\coursework\coursework\bin\Debug\coursework.exe.config
+F:\summer\coursework\coursework\bin\Debug\coursework.exe
+F:\summer\coursework\coursework\bin\Debug\coursework.pdb
+F:\summer\coursework\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+F:\summer\coursework\coursework\obj\Debug\coursework.FormMain.resources
+F:\summer\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+F:\summer\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+F:\summer\coursework\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+F:\summer\coursework\coursework\obj\Debug\coursework.exe
+F:\summer\coursework\coursework\obj\Debug\coursework.pdb
+F:\summer\coursework\coursework\obj\Debug\coursework.FormAdd.resources
+F:\summer\coursework\coursework\obj\Debug\coursework.FormEdit.resources
+F:\summer\coursework\coursework\obj\Debug\coursework.FormSearch.resources
+D:\N\summer\coursework\coursework\bin\Debug\coursework.exe.config
+D:\N\summer\coursework\coursework\bin\Debug\coursework.exe
+D:\N\summer\coursework\coursework\bin\Debug\coursework.pdb
+D:\N\summer\coursework\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+D:\N\summer\coursework\coursework\obj\Debug\coursework.FormAdd.resources
+D:\N\summer\coursework\coursework\obj\Debug\coursework.FormEdit.resources
+D:\N\summer\coursework\coursework\obj\Debug\coursework.FormMain.resources
+D:\N\summer\coursework\coursework\obj\Debug\coursework.FormSearch.resources
+D:\N\summer\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+D:\N\summer\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+D:\N\summer\coursework\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+D:\N\summer\coursework\coursework\obj\Debug\coursework.exe
+D:\N\summer\coursework\coursework\obj\Debug\coursework.pdb
+C:\N\summer\coursework\coursework\bin\Debug\coursework.exe.config
+C:\N\summer\coursework\coursework\bin\Debug\coursework.exe
+C:\N\summer\coursework\coursework\bin\Debug\coursework.pdb
+C:\N\summer\coursework\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+C:\N\summer\coursework\coursework\obj\Debug\coursework.FormAdd.resources
+C:\N\summer\coursework\coursework\obj\Debug\coursework.FormEdit.resources
+C:\N\summer\coursework\coursework\obj\Debug\coursework.FormMain.resources
+C:\N\summer\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+C:\N\summer\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\N\summer\coursework\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\N\summer\coursework\coursework\obj\Debug\coursework.exe
+C:\N\summer\coursework\coursework\obj\Debug\coursework.pdb
+C:\N\summer\coursework\coursework\obj\Debug\coursework.GeneralInformation.resources
+D:\summer\coursework\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+D:\summer\coursework\coursework\obj\Debug\coursework.FormAdd.resources
+D:\summer\coursework\coursework\obj\Debug\coursework.FormEdit.resources
+D:\summer\coursework\coursework\obj\Debug\coursework.FormMain.resources
+D:\summer\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+D:\summer\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+D:\summer\coursework\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+D:\summer\coursework\coursework\obj\Debug\coursework.exe
+D:\summer\coursework\coursework\obj\Debug\coursework.pdb
+D:\summer\coursework\coursework\bin\Debug\coursework.exe.config
+D:\summer\coursework\coursework\bin\Debug\coursework.exe
+D:\summer\coursework\coursework\bin\Debug\coursework.pdb
+D:\summer\coursework\coursework\obj\Debug\coursework.FormStatistic.resources
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\bin\Debug\coursework.exe.config
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\bin\Debug\coursework.exe
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\bin\Debug\coursework.pdb
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.FormAdd.resources
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.FormEdit.resources
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.FormMain.resources
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.FormStatistic.resources
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.exe
+D:\institute\first course\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.pdb

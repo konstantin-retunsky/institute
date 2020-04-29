@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+	<meta charset="utf-8">
+	<title>first practical</title>
+	<script type="text/javascript" src="javaScript.js"></script>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<div class="main">
+		<form id="form" name="profile" class="" action="index.html" method="post">
+
+			<ol>
+				<!-- 1 -->
+				<li>
+					Фамилия: <input type="text" name="firstname" data-label="Фамилия:">
+				</li>
+				<!-- 2 -->
+				<li>
+					Имя: <input type="text" name="surname" data-label="Имя:">
+				</li>
+				<!-- 3 -->
+				<li>
+					Возраст<select name="age" data-label="Возрастная группа:">
+						<option value="от 18 до 25 лет">18 лет</option>
+						<option value="от 25 до 35 лет">25 лет</option>
+						<option value="от 35 до 50 лет">35 лет</option>
+						<option value="50 лет и старшее">50 лет</option>
+					</select>
+				</li>
+				<!-- 4 -->
+				<li>
+					Я: <br>
+					<input type="radio" name="policy" value="Уже пользовался услугами магазина">Зарегестрированный покупатель <br>
+					<input type="radio" name="policy" value="Услугами магазина пользуюсь впервые">Впервые пользуюсь услугами магазина
+				</li>
+				<!-- 5 -->
+				<li>
+					Меня интересуют:<br>
+					<!-- тупой html, как же я его ненавижу -->
+					<div class="checkbox-grp" data-label="Товары, представляющие интерес:">
+						<input type=checkbox value="Книги">Книги<br>
+						<input type=checkbox value="Музыка и CD">Музыка и CD<br>
+						<input type=checkbox value="Программное обеспечение">Программное обеспечение<br>
+						<input type=checkbox value="Концелярские товары">Концелярские товары<br>
+						<input type=checkbox value="Сувениры">Сувениры<br>
+						Другое: <input type="text">
+					</div>
+				</li>
+				<!-- 6 -->
+				<li>
+					Мои пожелания и рекомендации: <br>
+					<textarea name="name" rows="5" cols="50" data-label="Пожелания покупателя:"></textarea>
+				</li>
+				<li class="buttonStyle">
+					<!--Buttn send,and reset-->
+					<input type=button onClick="result()" value="send">
+					<input type=button onClick="result()" value="reset">
+				</li>
+			</ol>
+
+		</form>
+
+		<div id="results" style="display: none;">
+
+		</div>
+	</div>
+
+	<script>
+
+	function result() {
+		document.getElementById('form').style.display = 'none';
+
+		let r = document.getElementById('results');
+		r.innerHTML = '';
+
+		let buildCheckboxList = (grp) => {
+			let container = document.createElement('p');
+
+			let label = document.createElement('span');
+			label.innerText = grp.dataset.label;
+
+			let ul = document.createElement('ul');
+
+			let inputs = grp.querySelectorAll('input');
+			for(let input of inputs) {
+				if(input.type == 'checkbox' && input.checked || input.type == 'radio' && input.value != '') {
+					let li = document.createElement('li');
+					li.innerText = input.value;
+					ul.appendChild(li);
+				}
+			}
+
+			container.appendChild(label);
+			container.appendChild(ul);
+
+			return container;
+		};
+
+		for(let input of document.querySelectorAll('input, select, textarea')) {
+			if(input.parentElement.className == 'checkbox-grp') {
+					continue;
+			}
+
+			if(input.type == 'button' || (input.type == 'radio' && !input.checked)) {
+				continue;
+			}
+
+			let container = document.createElement('p');
+			if(input.dataset.label) {
+				let label = document.createElement('span');
+				label.innerText = input.dataset.label;
+				container.appendChild(label);
+			}
+
+			let text = document.createElement('span');
+			text.innerText = input.value;
+			container.appendChild(text);
+
+			r.appendChild(container);
+		}
+
+		for(let checkboxGroup of document.querySelectorAll('.checkbox-grp')) {
+			r.appendChild(buildCheckboxList(checkboxGroup));
+		}
+
+		r.style.display = '';
+	}
+</script>
+
+</body>
+
+</html>

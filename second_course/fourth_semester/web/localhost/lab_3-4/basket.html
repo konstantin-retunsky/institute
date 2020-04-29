@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="css/style.css">
+	<title>Basket</title>
+</head>
+<body>
+
+<div class="sidebar">
+	<div class="sidebar_buttons join_site" onclick="document.getElementById('id01').style.display='block'" id="id011"
+	     style="width:auto;">Sign Up
+	</div>
+	<div class="sidebar_buttons join_site" onclick="document.getElementById('id02').style.display='block'" id="id012"
+	     style="width:auto;">Log In
+	</div>
+	<div class="sidebar_buttons" id="id03" onclick="Exit()" style="display: none;" style="width:auto;">Log Out</div>
+	<div class="sidebar_buttons" onclick="document.location.href = 'index.html';">Home</div>
+	<div class="sidebar_buttons" onclick="document.location.href = 'basket.html';" id="basket" style="display: none;">
+		Basket
+	</div>
+
+</div>
+
+<main>
+
+	<div class="shopping-cart">
+		<div class="title">
+			Shopping Basket
+		</div>
+
+		<div class="item">
+			<div class="buttons">
+				<span class="delete-btn"></span>
+			</div>
+
+			<img class="image" src="images/tent-0.jpg" alt=""/>
+			<div class="description">
+				<span>Название: hoe 3 Camo</span>
+				<span>Производитель: Nordway</span>
+				<span>Количество </span>
+			</div>
+
+			<div class="quantity">
+				<button class="plus-btn btn-basket" type="button" name="button">
+					<img src="images/ico/plus.svg" alt=""/>
+				</button>
+				<input type="text" name="name" value="1">
+				<button class="minus-btn btn-basket" type="button" name="button">
+					<img src="images/ico/minus.svg" alt=""/>
+				</button>
+			</div>
+
+			<div class="total-price">$549</div>
+		</div>
+
+		<div class="item">
+			<div class="buttons">
+				<span class="delete-btn"></span>
+			</div>
+
+			<img class="image" src="images/tent-0.jpg" alt=""/>
+			<div class="description">
+				<span>Название: hoe 3 Camo</span>
+				<span>Производитель: Nordway</span>
+				<span>Количество </span>
+			</div>
+
+			<div class="quantity">
+				<button class="plus-btn btn-basket" type="button" name="button">
+					<img src="images/ico/plus.svg" alt=""/>
+				</button>
+				<input type="text" name="name" value="1">
+				<button class="minus-btn btn-basket" type="button" name="button">
+					<img src="images/ico/minus.svg" alt=""/>
+				</button>
+			</div>
+
+			<div class="total-price">$549</div>
+		</div><div class="item">
+		<div class="buttons">
+			<span class="delete-btn"></span>
+		</div>
+
+		<img class="image" src="images/tent-0.jpg" alt=""/>
+		<div class="description">
+			<span>Название: hoe 3 Camo</span>
+			<span>Производитель: Nordway</span>
+			<span>Количество </span>
+		</div>
+
+		<div class="quantity">
+			<button class="plus-btn btn-basket" type="button" name="button">
+				<img src="images/ico/plus.svg" alt=""/>
+			</button>
+			<input type="text" name="name" value="1">
+			<button class="minus-btn btn-basket" type="button" name="button">
+				<img src="images/ico/minus.svg" alt=""/>
+			</button>
+		</div>
+
+		<div class="total-price">$549</div>
+	</div>
+
+		<div class="total-cost">
+			Общая сумма:  <span id="total_price">234234</span>
+		</div>
+
+	</div>
+
+</main>
+
+</body>
+<script src="https://code.jquery.com/jquery-2.2.4.js" charset="utf-8"></script>
+<script src="javascript/script.js"></script>
+
+
+</html>

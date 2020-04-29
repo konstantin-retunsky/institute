@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>lab7</title>
+   <link rel="stylesheet" href="style.css">
+   <script src="javaScript.js"></script>
+</head>
+
+<body>   
+   <form name="fMain">
+      <div class="boxOne">
+         <fieldset>
+            <legend>Определить</legend>
+         <p><input type="radio" name="rbDeterminant" id=""> Количество дней</p>
+         <p><input type="radio" name="rbDeterminant" id=""> Количество выходных</p>
+         <p><input type="radio" name="rbDeterminant" id=""> Количество рабочих дней</p>
+         <p><input type="radio" name="rbDeterminant" id=""> Количество полных недель</p>
+         <p><input type="radio" name="rbDeterminant" id=""> Количество полных месяцев</p>
+         </fieldset>
+      </div>
+      <div class="boxTwo">
+         <p>Начало периода</p>
+         <p><input type="text" style="width: 124px" placeholder="mm/dd/yyyy" name="startDate"></p>
+         <p>Конец периода</p>
+         <input type="date" name="finalDate">
+      </div>
+      <div class="footer">
+            <p>Результат &nbsp&nbsp&nbsp&nbsp&nbsp<input name="output" disabled style="width: 60px"; type="text"></p>
+            <input type="button" onclick="result()" value="Вычислить">
+      </div> 
+      
+   </form>
+</body>
+
+</html>

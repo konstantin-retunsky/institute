@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Алгоритм Шеннона-Фано</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jQuery.js"></script>
+</head>
+
+<body>
+    <div id="bigDiv">
+        <div id="Div">
+            <input type="text" id="textBox" size="50" placeholder="Введите сообщение" value="qqwweerrttyyuuaaaaaap"><br>
+            <input type="button" onclick="Calculate()" value="Вычислить"><br>
+            <span>Закодированное сообщение:</span><br>
+            <textarea id="textArea" readonly="" re="" cols="52" rows="5"></textarea>
+            <div id="tableDiv">
+                <table id="tableInfo">
+                    <tbody>
+                        <tr>
+                            <th>Символ</th>
+                            <th>Частота</th>
+                            <th>Код</th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div><br>
+        <canvas id="canvasTree" width="1250px" height="525px"></canvas>
+        <canvas id="canvasSave" style="display: none;"></canvas>
+    </div>
+
+    <script src="script.js"></script>
+    <!-- vfvf vskf hfve -->
+</body>
+
+</html>
+

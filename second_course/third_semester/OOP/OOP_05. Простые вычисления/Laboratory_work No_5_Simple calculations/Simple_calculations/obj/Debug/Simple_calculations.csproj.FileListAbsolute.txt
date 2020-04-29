@@ -1,0 +1,10 @@
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\bin\Debug\Simple_calculations.exe.config
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\bin\Debug\Simple_calculations.exe
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\bin\Debug\Simple_calculations.pdb
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\obj\Debug\Simple_calculations.csprojAssemblyReference.cache
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\obj\Debug\Simple_calculations.Form1.resources
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\obj\Debug\Simple_calculations.Properties.Resources.resources
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\obj\Debug\Simple_calculations.csproj.GenerateResource.cache
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\obj\Debug\Simple_calculations.csproj.CoreCompileInputs.cache
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\obj\Debug\Simple_calculations.exe
+D:\institute\second course\third semester\OOP\OOP_05. Простые вычисления\Laboratory_work No_5_Simple calculations\Simple_calculations\obj\Debug\Simple_calculations.pdb

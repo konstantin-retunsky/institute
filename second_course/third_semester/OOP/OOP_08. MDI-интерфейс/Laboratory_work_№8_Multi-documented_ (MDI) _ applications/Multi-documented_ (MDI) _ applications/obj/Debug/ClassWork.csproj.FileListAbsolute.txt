@@ -1,0 +1,10 @@
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\bin\Debug\ClassWork.exe.config
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\bin\Debug\ClassWork.exe
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\bin\Debug\ClassWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\obj\Debug\Multi_documented___MDI____applications.ChildForm.resources
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\obj\Debug\Multi_documented___MDI____applications.FrameForm.resources
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\obj\Debug\ClassWork.Properties.Resources.resources
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\obj\Debug\ClassWork.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\obj\Debug\ClassWork.exe
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\obj\Debug\ClassWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\Multi-documented_ (MDI) _ applications\obj\Debug\ClassWork.csprojAssemblyReference.cache

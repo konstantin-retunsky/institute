@@ -1,0 +1,20 @@
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\bin\Debug\lab-2.exe.config
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\bin\Debug\lab-2.exe
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\bin\Debug\lab-2.pdb
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\obj\Debug\lab-2.csprojAssemblyReference.cache
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\obj\Debug\lab_2.Properties.Resources.resources
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\obj\Debug\lab-2.csproj.GenerateResource.cache
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\obj\Debug\lab-2.exe
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\obj\Debug\lab-2.pdb
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\obj\Debug\lab_2.FormMain.resources
+D:\institute\second course\third semester\information systems in economics and management\practice\lab-2\lab-2\obj\Debug\lab-2.csproj.CoreCompileInputs.cache
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\bin\Debug\lab-2.exe.config
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\bin\Debug\lab-2.exe
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\bin\Debug\lab-2.pdb
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\obj\Debug\lab-2.csprojAssemblyReference.cache
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\obj\Debug\lab_2.FormMain.resources
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\obj\Debug\lab_2.Properties.Resources.resources
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\obj\Debug\lab-2.csproj.GenerateResource.cache
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\obj\Debug\lab-2.csproj.CoreCompileInputs.cache
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\obj\Debug\lab-2.exe
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab-2\lab-2\obj\Debug\lab-2.pdb

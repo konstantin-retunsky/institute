@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>lab6</title>
+     <link rel="stylesheet" href="style.css">
+     <script type="text/javascript" src="javaScript.js"></script>
+</head>
+
+<body>
+     <form name="fMain">
+          <h5>Исходный текст на русском языке</h5>
+          <input onkeyup="btnDisabled()" type="text" name="inputText" style="width:500px; margin-left: 50px;">
+          <fieldset id="replaceString">
+               <legend>Замена в строке</legend>
+               <p><input type="checkbox" name="counter">Подсчет числа замен</p>
+               <p><input type="checkbox" name="changes">Заменить гласные на <input type="text" style="width:40px" name="changeText"></p>
+               <p><input type="checkbox" name="notSpaces">Убрать все пробелы</p>
+               <p>Количество замен <input name="quantity" disabled type="text" style="width:40px" ></p>
+          </fieldset>
+
+          <fieldset id="searchString">
+               <legend>Поиск в строке</legend>
+               <p><input value="1" type="radio" name="rbSearch">Самое длинное слово</p>
+               <p><input value="2" type="radio" name="rbSearch">Самое короткое слово</p>
+               <p><input value="3" type="radio" name="rbSearch">Одинаковое количество  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;гласных и согласных</p>
+          </fieldset>
+
+          <br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+          <h5>Измененный текст</h5>
+          <input name="resultText" type="text" disabled style="width:500px; margin-left: 50px; " >
+          <br>
+          <input id="btnResult" disabled="disabled" type="button" onclick="result()" value="Выполнить" style="margin: 20px 0 0 250px;">
+
+          <img src="picKitty.png" style="width:200px;float: right;" alt="">
+
+     </form>
+</body>
+
+</html>

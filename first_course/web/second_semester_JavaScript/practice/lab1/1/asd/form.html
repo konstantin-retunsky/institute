@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>first practical</title>
+  <script type="text/javascript" src="javaScript.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="main">
+  <form id="form" name="profile" class="" action="index.html" method="post">
+
+    <ol>
+      <!-- 1 -->
+      <li>
+        Фамилия: <input type="text" name="firstname">
+      </li>
+      <!-- 2 -->
+      <li>
+        Имя: <input type="text" name="surname">
+      </li>
+      <!-- 3 -->
+      <li>
+          Возраст<select name="age">
+          <option value="от 18 до 25 лет">18 лет</option>
+          <option value="от 25 до 35 лет">25 лет</option>
+          <option value="от 35 до 50 лет">35 лет</option>
+          <option value="50 лет и старшее">50 лет</option>
+          </select>
+      </li>
+      <!-- 4 -->
+      <li>
+        Я: <br>
+        <input type="radio" name="policy" value="Уже пользовался услугами магазина">Зарегестрированный покупатель <br>
+        <input type="radio" name="policy" value="Услугами магазина пользуюсь впервые">Впервые пользуюсь услугами магазина
+      </li>
+      <!-- 5 -->
+      <li>
+        Меня интересуют:<br><input type=checkbox name="interests" value="Книги">Книги<br>
+        <input type=checkbox name="interests" value="Музыка и CD">Музыка и CD<br>
+        <input type=checkbox name="interests" value="Программное обеспечение">Программное обеспечение<br>
+        <input type=checkbox name="interests" value="Концелярские товары">Концелярские товары<br>
+        <input type=checkbox name="interests" value="Сувениры">Сувениры<br>
+        Другое: <input type="text" name="interestsOther">
+      </li>
+      <!-- 6 -->
+      <li>
+        Мои пожелания и рекомендации: <br>
+        <textarea name="name" rows="5" cols="50"></textarea>
+      </li>
+      <li class="buttonStyle">
+        <!--Buttn send,and reset-->
+        <input type=button onClick="result()" value="send">
+        <input type=button onClick="result()" value="reset">
+      </li>
+    </ol>
+
+  </form>
+
+  <div>
+  	<p>Имя: <span id="res_firstname"></span></p>
+  	<p>Фамилия: <span id="res_surname"></span></p>
+
+  	<p id="res_policy"></p>
+
+  	<p>Товары, представляющие интерес:
+  		<span id="res_interests"></span>
+  		<span id="res_interestsOther"></span>
+  	</p>
+</div>
+</div>
+
+<script>
+	function toObj( form ) {
+		let obj = {};
+		let elements = form.querySelectorAll('input, select, textarea');
+		for(let i = 0; i < elements.length; i++) {
+			let element = elements[i];
+			let name = element.name;
+			let value = element.value;
+
+			if(element.type == 'checkbox') {
+				if(element.checked && name) {
+					if(name) {
+						if(obj[name]) {
+							obj[name].push(value);
+						} else {
+							obj[name] = [value];
+						}
+					}
+				}
+			} else if(element.type == 'radio') {
+				if(element.checked) {
+					obj[name] = value;
+				}
+			} else {
+				if(name) {
+					if(name == 'interestsOther') { // oppa govno god
+						if(value == '') {
+							continue;
+						}
+
+						try {
+							obj['interests'].push(value);
+						} catch(e) {
+							obj['interests'] = [value];
+						}
+					} else {
+						obj[name] = value;
+					}
+				}
+			}
+
+
+		}
+
+		return obj;
+	}
+
+	function result() {
+		let form = document.querySelector('form');
+		formData = toObj(form);
+
+		for(let key in formData) {
+			let e = document.getElementById('res_' + key);
+
+			if(!e) {
+				continue;
+			}
+
+			if(typeof formData[key] == 'object') {
+				let ul = document.createElement('ul');
+
+				for(let item of formData[key]) {
+					console.log(item);
+
+					let li = document.createElement('li');
+					li.innerText = item;
+					ul.appendChild(li);
+				}
+
+				e.innerHTML = ul.outerHTML;
+			} else {
+				e.innerText = formData[key];
+			}
+		}
+
+		console.log(formData);
+	}
+</script>
+
+</body>
+
+</html>

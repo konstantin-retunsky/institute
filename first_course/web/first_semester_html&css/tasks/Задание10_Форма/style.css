@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'Andika';
+  src: url('fonts/Andika-R.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: Andika;
+  margin: 30px;
+  font-size: 14px;
+  text-decoration: none;
+  line-height: 1.4;
+	background-color: #EEEEEE;
+	display: flex;
+}
+#logo {
+  background: url("./images/product-common-sprite.png");
+	width: 67px;
+	height: 25px;
+  background-position: 0 0;
+	margin: 25px;
+}
+
+.saidbar {
+margin: 20px 0 20px 0;
+width: 120px;
+border:solid 1px grey;
+border-radius:6px;
+background-color: white;
+}
+.saidbar p {
+	background-color: #297FB8;
+	border-radius:5px 5px 0 0;
+	margin:0;
+	padding:5px 0px 4px 3px;
+	color: white;
+}
+.saidbar ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.saidbar a {
+	display: block;
+	text-decoration: none;
+	color: grey ;
+}
+
+.saidbar a:hover {
+color: white;
+background: #0088cc;
+}
+h1 {
+	color: #6E8EB4;
+	position: absolute;
+	margin: 0 0 0 150px;
+}
+main {
+	border:solid 1px grey;
+	background-color: white;
+	margin: 80px 0 0 50px;
+	padding: 20px;
+	border-radius:8px 8px 8px 8px;
+	border:solid 1px grey;
+	display: grid;
+}
+main p {
+	color: rgb(63,100,254);
+}
+.contact-details {
+	width: 500px;
+border-radius: 5px 5px 5px 5px;
+border: solid 1px red;
+margin: auto;
+padding: 5px;
+}
+.person-details {
+	width: 200px;
+	height: 200px;
+	border-radius: 5px 5px 5px 5px;
+	border: solid 1px red;
+	margin: 10px auto auto auto ;
+	width: 500px;
+}

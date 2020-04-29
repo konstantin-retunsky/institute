@@ -1,0 +1,9 @@
+{
+    nameJohn,
+    age31,
+    pets[
+        { animaldog, nameFido },
+        { animalcat, nameFelix },
+        { animalhamster, nameLightning }
+    ]
+}

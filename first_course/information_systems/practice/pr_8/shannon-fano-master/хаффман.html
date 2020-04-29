@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Document</title>
+</head>
+<body>
+        <img class="b-mainvideo__image lazyloaded" src="https://b1.filmpro.ru/c/568337.230x161c5020.jpg" data-src="https://b1.filmpro.ru/c/568337.230x161c5020.jpg" data-srcset="https://b1.filmpro.ru/c/568337.230x161c5020.jpg 1x, https://b1.filmpro.ru/c/568337.460x322c5020.jpg 2x" alt="Король лев. Дублированный трейлер №2" srcset="https://b1.filmpro.ru/c/568337.230x161c5020.jpg 1x, https://b1.filmpro.ru/c/568337.460x322c5020.jpg 2x">
+   <script>
+   function tree(left,right,data){
+        this.left=left
+        this.right=right
+        this.data=data
+        }
+function encode(z,i){
+        dig = []
+        
+        while (i!=z.data[0]){ 
+             if (z.left.data[0].indexOf(i)!=-1){
+                  dig.push('0')
+                  z=z.left}
+             else if (z.right.data[0].indexOf(i)!=-1){
+                  dig.push('1')
+                  z=z.right}  
+             }
+        hai = dig.join('')
+        console.log("haaaai=",hai)        
+        return hai
+        }
+
+function decode(r,z){
+     nw = z
+     word = ''
+     for (var i in r){
+         if (r[i] == "1"){
+              z = z.right}
+         else if (r[i] == "0"){
+              z = z.left}
+         if (z.left == null || z.right == null){
+              word = word + z.data[0] 
+              z = nw}
+        }
+     return word
+        }
+function sorting(o){
+        l = []
+        
+        for (var i in o){
+                l.push(new tree(null,null,o[i]))
+                }
+                console.log(l)
+                
+        while (l.length>1){
+                f = l.pop()
+                s = l.pop()
+                h = [f.data[0]+s.data[0],f.data[1]+s.data[1]]
+                l.push(new tree(f,s,h))
+                l.sort(function(c,d){return d.data[1]-c.data[1]})
+                }
+        z = l.pop()
+        return z
+
+        }
+
+function main(){
+    d = {}
+    o = []
+    res = ''
+    q = ''
+    str = "qweqweqweqweqwe"
+    
+    for (var c in str){
+        if (str[c] in d){
+            d[str[c]] =d[str[c]]+1}
+        else  
+            d[str[c]]= 0}
+    for (var key in d){
+        o.push([key,d[key]])          
+        }
+        
+    o.sort(function(a,b){return b[1]-a[1]})
+        
+    z=sorting(o)
+    for(var c in str){
+        d = encode(z,str[c])
+        toString(d)
+        res=res+d 
+        }   
+    console.log("Here is the encoded string",res)
+        r=res
+        q = decode(r,z)
+    console.log ("Here is the decoded digit",q)
+        }
+main()
+   </script>
+</body>
+</html>

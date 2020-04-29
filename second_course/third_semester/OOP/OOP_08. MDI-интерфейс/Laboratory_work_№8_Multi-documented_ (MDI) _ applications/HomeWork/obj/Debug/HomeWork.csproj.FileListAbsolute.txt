@@ -1,0 +1,25 @@
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\bin\Debug\HomeWork.exe.config
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\bin\Debug\HomeWork.exe
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\bin\Debug\HomeWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.exe
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.SubsidiaryForm.resources
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.ChildForm.resources
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.FrameForm.resources
+D:\ValiuS\Desktop\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.ListFromOtherForm.resources
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\bin\Debug\HomeWork.exe.config
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\bin\Debug\HomeWork.exe
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\bin\Debug\HomeWork.pdb
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.ChildForm.resources
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.FrameForm.resources
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.ListFromOtherForm.resources
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.SubsidiaryForm.resources
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.exe
+D:\institute\second course\third semester\OOP\OOP_08. MDI-интерфейс\Laboratory_work_№8_Multi-documented_ (MDI) _ applications\HomeWork\obj\Debug\HomeWork.pdb

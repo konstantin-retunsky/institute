@@ -1,0 +1,41 @@
+
+form {
+     width: 600px;
+     height: 600px;
+     background: pink;
+     margin: auto;
+}
+
+fieldset {
+     width: 240px;
+     margin: 15px;
+}
+
+input, fieldset, form {
+     border: solid 1px rgb(235, 7, 232);
+     box-shadow: 0 0 4px rgb(235, 7, 232);
+}
+
+#replaceString {
+     float: left;
+}
+
+#searchString {
+     float: right;
+}
+img {
+     margin:  50px 0 0 0;
+     transform: rotateZ(320deg);
+}
+h5 {
+     text-align: center;
+}
+
+@-webkit-keyframes rotat{
+     from {transform: rotateZ(280deg);}
+     to {transform: rotateZ(360deg);}
+}
+
+#btnResult:hover ~ img{
+     animation: rotat 1s infinite alternate linear;
+}

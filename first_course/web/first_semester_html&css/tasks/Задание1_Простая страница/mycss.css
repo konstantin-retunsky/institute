@@ -1,0 +1,33 @@
+body {
+    background-color: #ffffff;
+   }
+
+h2 {
+    font-size: 14pt;  
+    font-family: Times;
+    color: #000000;  
+   }
+
+p {
+    font-size: 10pt;  
+    color: #000000;  
+    margin-top: 0;  
+   }
+
+.par {
+	text-align: left;
+	
+   }
+
+#pic {
+	margin: 10; 
+	width: 300;
+	float: left;
+	
+   }
+
+
+#content {
+	width: 100%;
+	margin: 10px;
+}

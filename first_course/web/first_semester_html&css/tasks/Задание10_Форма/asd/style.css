@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Andika';
+  src: url('fonts/Andika-R.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: Andika;
+  margin: 30px;
+  font-size: 14px;
+  text-decoration: none;
+  line-height: 1.4;
+	background-color: #EEEEEE;
+}
+#logo {
+  background: url("./images/product-common-sprite.png");
+	width: 67px;
+	height: 25px;
+  background-position: 0 0;
+	margin: 25px;
+}
+
+.saidbar {
+border:solid 1px grey;
+border-radius:6px;
+margin: 20px 0 20px 0;
+width: 120px;
+border:solid 1px grey;
+border-radius:6px;
+}
+.saidbar p {
+	background-color: #297FB8;
+	border-radius:5px 5px 0 0;
+	margin:0;
+	padding:5px 0px 4px 3px;
+	color: white;
+}
+.saidbar ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.saidbar a {
+	display: block;
+	text-decoration: none;
+	color: #0088cc;
+}
+
+.saidbar a:hover {
+color: white;
+background: #0088cc;
+}

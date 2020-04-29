@@ -1,0 +1,144 @@
+body{
+	background-color:rgb(240,240,240);
+	font-family:Tahoma;
+}
+
+.zero{
+	display:flex;
+}
+/* Левый бар */
+.left_bar{
+	display:flex;
+	align-items: center;
+	flex-direction:column;
+	font-size:9pt;
+}
+
+.left_logo{
+	width:67px;
+	height:25px;
+	background-image:url("swite-product.png");
+	background-position:0 0;
+
+}
+
+.left_bar a{
+	text-decoration:none;
+	color:rgb(0,0,0, 0.5);
+}
+
+.left_bar ul{
+	padding-left:0;
+	width:105px;
+	list-style:none;
+	border:solid 1px rgb(0,0,0, 0.2);
+	border-radius:5px;
+	background-color:rgb(255,255,255);
+}
+
+.left_bar li{
+	padding:2px 3px 2px 6px;
+}
+
+.left_bar li:hover{
+	background-color:rgb(0,0,0, 0.5);
+}
+
+
+
+.left_bar p{
+	margin:0;
+	padding:4px 0px 4px 4px;
+	background-color:rgb(50,150,200);
+	color:rgb(255,255,255);
+	border-radius:5px 5px 0 0;
+}
+/* Правый Бар */
+.right_side{
+	margin:0px 0px 0px 20px;
+	display:flex;
+	flex-direction:column;
+	font-size:9pt;
+}
+
+.right_side > p{
+	margin:5px 0px 5px 0px;
+	font-size:20pt;
+	color:rgb(50,150,200);
+}
+
+.bdy{
+	border:solid 1px rgb(0,0,0, 0.2);
+	border-radius:5px;
+	background-color:rgb(255,255,255);
+	padding:5px 20px 20px 20px;
+}
+
+.bdy > p{
+	margin:15px 0px 15px 13px;
+	color:rgb(50,150,200);
+}
+
+.container, .container1{
+	display:flex;
+	flex-direction:row;
+	margin:10px 0px 0px 15px;
+	padding:0px 5px 5px 5px;
+	border:solid 1px rgb(255,100,100, 0.8);
+	border-radius:5px;
+}
+
+.container div, .container1 div{
+	position:relative;
+	margin:0px 0px 0px 10px;
+}
+
+.container form, .container1 form{
+	margin:10px 0px 0px 10px;
+}
+
+.container p, .container1 p{
+	padding:0px 3px 0px 3px;
+	margin:0px 0px 0px 0px;
+	width:80px;
+	position:absolute;
+	top:-8px;
+	background-color:rgb(255,255,255);
+	color:rgb(0,0,0, 0.5);
+}
+
+.container1 div .details{
+	display:flex;
+	flex-direction:row;
+	margin:10px 0px 0px 10px;
+}
+
+.container1 div div div{
+	margin:0px 10px 0px 0px;
+}
+
+.animal{
+	display:flex;
+	flex-direction:column;
+	padding:10px 0px 0px 0px;
+}
+
+.color{
+	margin:0px 0px 0px 200px;
+}
+
+.color1{
+	margin:0px 0px 0px 40px;
+}
+
+.btns{
+	margin:10px 0px 0px 10px;
+}
+
+.btns input{
+	margin:0px 0px 0px 5px;
+	background-color:rgb(50,150,200);
+	color:rgb(255,255,255);
+	border:solid 1px rgb(50,150,200);
+	border-radius:2px;
+}

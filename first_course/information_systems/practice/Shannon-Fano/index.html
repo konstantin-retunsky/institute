@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>
+      Shannon Fano coding
+    </title>
+
+    <link rel=" stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <img
+      src="/image/nate-grant-QQ9LainS6tI-unsplash.jpg"
+      id="background-image"
+    />
+
+    <form id="form-main">
+      <span class="headline" onclick="ChangeAlgorithm()"
+        >Алгоритм Хаффмана</span
+      >
+      <div id="textarea--text-border">
+        <textarea
+          id="input-text"
+          placeholder="Введите текст"
+          autofocus
+        ></textarea>
+      </div>
+      <input
+        type="button"
+        value="Вычислить"
+        onclick="ButtonStartCalculation()"
+        id="calc"
+      />
+    </form>
+
+    <button class="open-btn" onclick="OpenNav()">☰</button>
+    <button class="back-btn" onclick="BackButton()">&#8249;</button>
+
+    <div id="mySidebar" class="sidebar">
+      <a href="javascript:void(0)" class="closebtn" onclick="CloseNav()">×</a>
+
+      <h2 class="sidebar__text sidebar--headline">
+        Введенный текст:
+      </h2>
+      <p class="sidebar__text" id="clone-text"></p>
+
+      <table cellspacing="2" id="sidebar--table" class="sidebar__text"></table>
+    </div>
+  </body>
+  <script src="javascript/jquery.js"></script>
+  <script src="javascript/main.js"></script>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <link rel="stylesheet" href="style.css">
+     <script type="text/javascript" src="javascript.js"></script>
+     <title>lab2</title>
+</head>
+
+<body>
+
+     <form name="calculate">
+          <h2>Расчет обоев для комнаты</h2>
+          <table>
+               <tr>
+                    <td>
+                         <h3>Параметры комнаты (м.)</h3>
+                    </td>
+                    <td></td>
+               </tr>
+               <tr>
+                    <td>Длина комнаты:</td>
+                    <td> <input type="text" name="lengthRoom" onkeyup="test()"> </td>
+               </tr>
+               <tr>
+                    <td>Ширина комнаты</td>
+                    <td> <input type="text" name="widthRoom" onkeyup="test()"> </td>
+               </tr>
+               <tr>
+                    <td>Высота комнаты</td>
+                    <td> <input type="text" name="heightRoom" onkeyup="test()"> </td>
+               </tr>
+               <tr>
+                    <td>
+                         <h3>Параметры рулона обоев (м.)</h3>
+                    </td>
+                    <td></td>
+               </tr>
+               <tr>
+                    <td>Ширина рулона:</td>
+                    <td> <input type="text" name="widthRoll" onkeyup="test()"> </td>
+               </tr>
+               <tr>
+                    <td>Длина рулона:</td>
+                    <td> <input type="text" name="lengthRoll" onkeyup="test()" > </td>
+               </tr>
+               <tr>
+                    <td>Количество рулонов:</td>
+                    <td> <input type="text" name="numberRoll" readonly> </td>
+               </tr>
+               <tr>
+                    <td></td>
+                    <td> <input type="button" onclick="result()" value="Вычислить!" name="btnResult" disabled > </td>
+               </tr>
+          </table>
+
+     </form>
+
+</body>
+
+</html>

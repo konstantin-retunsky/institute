@@ -1,0 +1,24 @@
+
+
+main {
+    width: max-content;
+    height: max-content;
+    margin: auto;
+    margin-top: 75px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 1.2em;
+    color: azure;
+}
+
+.create-html-file {
+    /*background: ;*/
+    width: 270px;
+    background: lightgreen;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.create-html-file:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,48 @@
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\bin\Debug\BD.exe.config
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\bin\Debug\BD.exe
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\bin\Debug\BD.pdb
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.csprojAssemblyReference.cache
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.exe
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.pdb
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.Doctors.resources
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.Patients.resources
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.Reception.resources
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.Docpat.resources
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.InfoAll.resources
+C:\Users\kenzh\Desktop\Информатика и программирование\Курсовая\BD\BD\obj\Debug\BD.Window_for_name.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\bin\Debug\BD.exe.config
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\bin\Debug\BD.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\bin\Debug\BD.pdb
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.csprojAssemblyReference.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Docpat.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Doctors.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Form1.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.InfoAll.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Patients.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Properties.Resources.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Reception.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Window_for_name.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.pdb
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\bin\Debug\BD.exe.config
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\bin\Debug\BD.exe
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\bin\Debug\BD.pdb
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.csprojAssemblyReference.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Docpat.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Doctors.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Form1.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.InfoAll.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Patients.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Reception.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.Window_for_name.resources
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.exe
+C:\N\institute\computer science and programming\second semester\kursovaya-master\asd3\Курсовая\BD\BD\obj\Debug\BD.pdb

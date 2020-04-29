@@ -1,0 +1,6 @@
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Classwork\bin\Debug\Classwork.exe.config
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Classwork\bin\Debug\Classwork.exe
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Classwork\bin\Debug\Classwork.pdb
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Classwork\obj\Debug\Classwork.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Classwork\obj\Debug\Classwork.exe
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Classwork\obj\Debug\Classwork.pdb

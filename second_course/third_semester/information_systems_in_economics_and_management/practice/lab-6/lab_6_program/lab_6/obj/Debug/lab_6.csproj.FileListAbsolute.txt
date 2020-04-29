@@ -1,0 +1,30 @@
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\bin\Debug\lab_6.exe.config
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\bin\Debug\lab_6.exe
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\bin\Debug\lab_6.pdb
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\obj\Debug\lab_6.csprojAssemblyReference.cache
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\obj\Debug\lab_6.MainForm.resources
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\obj\Debug\lab_6.Properties.Resources.resources
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\obj\Debug\lab_6.csproj.GenerateResource.cache
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\obj\Debug\lab_6.csproj.CoreCompileInputs.cache
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\obj\Debug\lab_6.exe
+D:\institute\second_course\third_semester\information_systems_in_economics_and_management\practice\lab_6\lab_6\obj\Debug\lab_6.pdb
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\bin\Debug\lab_6.exe.config
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\bin\Debug\lab_6.exe
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\bin\Debug\lab_6.pdb
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\obj\Debug\lab_6.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\obj\Debug\lab_6.MainForm.resources
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\obj\Debug\lab_6.Properties.Resources.resources
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\obj\Debug\lab_6.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\obj\Debug\lab_6.csproj.CoreCompileInputs.cache
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\obj\Debug\lab_6.exe
+D:\ValiuS\Desktop\lab_6 — копия (2)\lab_6\obj\Debug\lab_6.pdb
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\obj\Debug\lab_6.csprojAssemblyReference.cache
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\obj\Debug\lab_6.MainForm.resources
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\obj\Debug\lab_6.Properties.Resources.resources
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\obj\Debug\lab_6.csproj.GenerateResource.cache
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\obj\Debug\lab_6.csproj.CoreCompileInputs.cache
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\obj\Debug\lab_6.exe
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\obj\Debug\lab_6.pdb
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\bin\Debug\lab_6.exe.config
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\bin\Debug\lab_6.exe
+C:\Users\bogeyman\Desktop\lab_6  копия (2)\lab_6\bin\Debug\lab_6.pdb

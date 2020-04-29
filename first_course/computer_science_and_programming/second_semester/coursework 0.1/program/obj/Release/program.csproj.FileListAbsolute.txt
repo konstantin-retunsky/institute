@@ -1,0 +1,13 @@
+D:\institute\computer science and programming\second semester\coursework\program\bin\Release\program.exe.config
+D:\institute\computer science and programming\second semester\coursework\program\bin\Release\program.exe
+D:\institute\computer science and programming\second semester\coursework\program\bin\Release\program.pdb
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.csprojAssemblyReference.cache
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.fMain.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.FormAdd.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.FormEdit.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.FormSearch.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.Properties.Resources.resources
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.csproj.GenerateResource.cache
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.csproj.CoreCompileInputs.cache
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.exe
+D:\institute\computer science and programming\second semester\coursework\program\obj\Release\program.pdb

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>lab4_1</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="text/javascript" src="javaScript.js"></script>
+</head>
+
+<body>
+  <form name="fMain">
+    <h3>Комплектация автомобиля</h3>
+    <!-- CheckBoxs-->
+    <div class="groupChb">
+      <p><input type="checkbox" onclick="textArea()">Базовая комплектация </p>
+      <p><input type="checkbox" onclick="textArea()">Коврики</p>
+      <p><input type="checkbox" onclick="textArea()">ЗАщита картера</p>
+      <p><input type="checkbox" onclick="textArea()">Зимние шины</p>
+      <p><input type="checkbox" onclick="textArea()">Литые диски</p>
+
+      <textarea name="textAreaasd" rows="8" cols="40" disabled></textarea>
+    </div>
+
+    <div class="printImg">
+      <img src="images/1.jpg" id="imgAuto">
+      <img src="images/2.jpg" id="imgMat">
+      <img src="images/3.jpg" id="imgProtect">
+      <img src="images/4.jpg" id="imgTeres">
+      <img src="images/5.jpg" id="imgDiscs">
+    </div>
+
+    <div class="asd">
+      <input type="button" value="Рассчитать" onclick="calc()">
+      <input type="reset"  value="Очистить">
+    </div>
+
+  </form>
+
+</body>
+
+</html>

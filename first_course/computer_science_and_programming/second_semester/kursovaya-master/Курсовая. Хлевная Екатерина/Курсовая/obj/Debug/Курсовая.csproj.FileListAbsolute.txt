@@ -1,0 +1,107 @@
+D:\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+D:\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form3.resources
+E:\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+E:\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+E:\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.Form3.resources
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.Form4.resources
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+E:\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+E:\Кате\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+E:\Кате\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+E:\Кате\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Form3.resources
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Form4.resources
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Form5.resources
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Form6.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form4.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form5.resources
+D:\Курсовая\Курсовая\obj\Debug\Курсовая.Form6.resources
+E:\Кате\Курсовая\Курсовая\obj\Debug\Курсовая.Form7.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\bin\Debug\Курсовая.exe.config
+E:\Кате\Курсовая v 2. 0\Курсовая\bin\Debug\Курсовая.exe
+E:\Кате\Курсовая v 2. 0\Курсовая\bin\Debug\Курсовая.pdb
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Form1.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Form2.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Form3.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Form4.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Form5.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Form6.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Form7.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.exe
+E:\Кате\Курсовая v 2. 0\Курсовая\obj\Debug\Курсовая.pdb
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.exe.config
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.exe
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.pdb
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form2.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form3.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form4.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form5.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form6.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form7.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.exe
+D:\institute\computer science and programming\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.pdb
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.exe.config
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.pdb
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form1.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form2.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form3.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form4.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form5.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form6.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form7.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.exe
+F:\institute\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.pdb
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.exe.config
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.exe
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\bin\Debug\Курсовая.pdb
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form2.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form3.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form4.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form5.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form6.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Form7.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.exe
+D:\institute\first course\computer science and programming\second semester\kursovaya-master\Курсовая. Хлевная Екатерина\Курсовая\obj\Debug\Курсовая.pdb

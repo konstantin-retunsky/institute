@@ -1,0 +1,19 @@
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\Homework.exe.config
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\Homework.exe
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\Homework.pdb
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.exe
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.pdb
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.Resource.resources
+D:\ValiuS\Desktop\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\RussianWords.txt
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\RussianWords.txt
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\Homework.exe.config
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\Homework.exe
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\bin\Debug\Homework.pdb
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.Resource.resources
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.exe
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.pdb
+D:\institute\second course\third semester\OOP\OOP_02.Наследование-1\Laboratory_work_2_Inheritance\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache

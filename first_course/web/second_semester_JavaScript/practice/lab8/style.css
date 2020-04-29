@@ -1,0 +1,13 @@
+form {
+   margin: auto;
+   background: azure;
+   border: solid 1px gray;
+   box-shadow: teal 0 0 5px;
+   width: 450px;
+   height: 650px;
+}
+
+input {
+   margin: 10px;
+   box-shadow: 0 0 5px white;
+}

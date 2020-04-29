@@ -1,0 +1,45 @@
+<html>
+
+<head>
+     <title>Документ HTML</title>
+</head>
+
+<body>
+     <script language="JavaScript">
+          function vyvod()
+{
+peremennaya1=document.anketa.Name.value;
+if (document.anketa.gender[0].checked)
+peremennaya2="мужской пол";
+if (document.anketa.gender[1].checked)
+peremennaya2 = "женский пол";
+if (document.anketa.spech.checked)
+peremennaya3 = "Прикладная информатика";
+else peremennaya3 = "Информационные системы и технологии";
+peremennaya4 = anketa.town.options[anketa.town.selectedIndex].value;
+document.write("<body bgcolor=yellow>");
+document.write("<h3>");
+document.write(peremennaya1+"<br>");
+document.write(peremennaya2+"<br>");
+document.write(peremennaya3 +"<br>");
+document.write(peremennaya4 +"<br>");
+document.write("</h3>");   }
+</script>
+     <form name="anketa">
+          ФИО: <input type="text" name="Name"><br>
+          Ваш пол:<br>
+          <input type="radio" name="gender" value="male">мужской<br>
+          <input type="radio" name="gender" value="female">женский<p>
+               Специальность: <input type=checkbox name="spech"> <br>
+               Город:<br>
+               <select name="town">
+                    <option value="Москва">Москва</option>
+                    <option value="Санкт-Петербург">Санкт-Петербург</option>
+                    <option value="Тюмень">Тюмень</option>
+                    <option value="Другой">Другой</option>
+               </select>
+               <br><input type=button onClick="vyvod()" value="Обработка формы">
+     </form>
+</body>
+
+</html>

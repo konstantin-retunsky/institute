@@ -1,0 +1,28 @@
+form {
+   border:  1px solid cadetblue;
+   width:   460px;
+   height:  400px;
+   padding: 20px;
+   background: #f1f4eb;
+   margin: auto;
+}
+
+.boxOne {
+   float: left;
+}
+
+.boxTwo {
+   float: right;
+   margin: 0 10px 0 0;
+}
+
+button {
+   border-radius: 5px 5px 5px 5px;
+   width: 100px;
+   height: 35px;
+   margin: 0 0 0 20px;
+}
+
+.footer {
+   margin: 260px 0 0 0;
+}

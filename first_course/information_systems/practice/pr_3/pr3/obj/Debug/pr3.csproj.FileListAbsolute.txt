@@ -1,0 +1,10 @@
+D:\институт\информационные системы\practice\pr3\pr3\bin\Debug\pr3.exe.config
+D:\институт\информационные системы\practice\pr3\pr3\bin\Debug\pr3.exe
+D:\институт\информационные системы\practice\pr3\pr3\bin\Debug\pr3.pdb
+D:\институт\информационные системы\practice\pr3\pr3\obj\Debug\pr3.csprojAssemblyReference.cache
+D:\институт\информационные системы\practice\pr3\pr3\obj\Debug\pr3.fMain.resources
+D:\институт\информационные системы\practice\pr3\pr3\obj\Debug\pr3.Properties.Resources.resources
+D:\институт\информационные системы\practice\pr3\pr3\obj\Debug\pr3.csproj.GenerateResource.cache
+D:\институт\информационные системы\practice\pr3\pr3\obj\Debug\pr3.csproj.CoreCompileInputs.cache
+D:\институт\информационные системы\practice\pr3\pr3\obj\Debug\pr3.exe
+D:\институт\информационные системы\practice\pr3\pr3\obj\Debug\pr3.pdb

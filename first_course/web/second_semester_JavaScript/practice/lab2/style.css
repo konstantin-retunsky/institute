@@ -1,0 +1,19 @@
+form {
+     width:  400px;
+     height: 420px;
+     border: solid 1px rgb(89, 193, 251);
+     background: rgb(212, 230, 242);
+     margin: auto;
+     padding: 10px;
+}
+
+table {
+     border-bottom: solid 1px grey;
+     border-top:    solid 1px grey;
+     padding-bottom: 10px;
+}
+
+h2 {
+     text-align: center;
+     color: rgb(120, 205, 0);
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>first practical</title>
+  <script type="text/javascript" src="javaScript.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <form name="profile">
+
+    <ol>
+      <!-- 1 -->
+      <li>
+        Фамилия: <input type="text" name="textSurname">
+      </li>
+      <!-- 2 -->
+      <li>
+        Имя: <input type="text" name="textName">
+      </li>
+      <!-- 3 -->
+      <li>
+          Возраст<select name="age">
+          <option value="18 лет">18 лет</option>
+          <option value="25 лет">25 лет</option>
+          <option value="35 лет">35 лет</option>
+          <option value="50 лет">50 лет</option>
+          </select>
+      </li>
+      <!-- 4 -->
+      <li>
+        Я: <br>
+        <input type="radio" name="rb" >Зарегестрированный покупатель <br>
+        <input type="radio" name="rb" >Впервые пользуюсь услугами магазина
+      </li>
+      <!-- 5 -->
+      <li>
+        Меня интересуют:<br>
+        <input type=checkbox name="chb">Книги<br>
+        <input type=checkbox name="chb">Музыка и CD<br>
+        <input type=checkbox name="chb">Программное обеспечение<br>
+        <input type=checkbox name="chb">Концелярские товары<br>
+        <input type=checkbox name="chb">Сувениры<br>
+        Другое: <input type="text" name="other">
+      </li>
+      <!-- 6 -->
+      <li>
+        Мои пожелания и рекомендации: <br>
+        <textarea name="wishes" rows="5" cols="50"></textarea>
+      </li>
+      <li class="buttonStyle">
+        <!--Buttn send,and reset-->
+        <input type=button onClick="result()" value="send">
+        <input type="reset" value="Reset">
+      </li>
+    </ol>
+
+  </form>
+</body>
+
+</html>

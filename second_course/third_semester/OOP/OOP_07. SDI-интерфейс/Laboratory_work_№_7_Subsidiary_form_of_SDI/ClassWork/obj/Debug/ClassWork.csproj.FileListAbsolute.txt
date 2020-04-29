@@ -1,0 +1,25 @@
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\bin\Debug\ClassWork.exe.config
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\bin\Debug\ClassWork.exe
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\bin\Debug\ClassWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.MainForm.resources
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.Properties.Resources.resources
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.csproj.GenerateResource.cache
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.exe
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.AboutForm.resources
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.BabyForm.resources
+D:\ValiuS\Desktop\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.DialogClose.resources
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\bin\Debug\ClassWork.exe.config
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\bin\Debug\ClassWork.exe
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\bin\Debug\ClassWork.pdb
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.AboutForm.resources
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.BabyForm.resources
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.DialogClose.resources
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.MainForm.resources
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.Properties.Resources.resources
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.csproj.GenerateResource.cache
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.csproj.CoreCompileInputs.cache
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.exe
+D:\institute\second course\third semester\OOP\OOP_07. SDI-интерфейс\Laboratory_work_№_7_Subsidiary_form_of_SDI\ClassWork\obj\Debug\ClassWork.pdb

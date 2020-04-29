@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <link rel="stylesheet" href="style.css">
+   <script src="javaScript.js"></script>
+   <title>lab8</title>
+</head>
+
+<body>
+   <form name="fMain">
+      <ol>
+         <li>ФИО:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input onchange="check()" name="fullName" id="fullName" style="width:250px;"  placeholder="Иванов Иван Иванович" type="text" > </li>
+         <li>Адрес:&nbsp;&nbsp;&nbsp; <input onchange="check()" name="address" placeholder="г. XXXXX, ул. XXXXX, кв. XXX" style="width:250px;" type="text" > </li>
+         <li>Телефон:<input onchange="check()" name="phone" type="text"  placeholder="+8 555-555-5555 или +7 55-55-55-55-55" style="width:250px;"> </li>
+         <li>Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input onchange="check()" name="email" type="email"  style="width:250px;"> </li>
+         <li>СНИЛС: <input onchange="check()" name="snils" type="text"  style="width:250px;"> </li>
+         <li>Город : <br>
+            <input onchange="check()" id="test" class="radioTown" name="radioTown" type="radio" value="1">Город 1 <br>
+            <input onchange="check()" class="radioTown" name="radioTown" type="radio" value="2">Город 2 <br>
+            <input onchange="check()" class="radioTown" name="radioTown" type="radio" value="3">Город 3 <br>
+            <input onchange="check()" class="radioTown" name="radioTown" type="radio" value="4">Город 4 <br>
+            <input onchange="check()" class="radioTown" name="radioTown" type="radio" value="5">Город 5 
+         </li>
+         <li>
+            <label>Наименование товара: </label>
+            <select name="product">
+               <option value="1">product 1</option>
+               <option value="2">product 2</option>
+               <option value="3">product 3</option>
+               <option value="4">product 4</option>
+               <option value="5">product 5</option>
+            </select>
+         </li>
+         <li>Количество товара: <input onchange="check()" name="quantityProduct"  style="width: 100px" type="text"> </li>
+         <input name="send" onclick="result()" disabled="disabled" type="submit" value="Отправить" > 
+         <input type="reset">
+      </ol>
+   </form>
+
+   <!-- 
+Форма для оформления заказа
+•	Реализуйте форму в соответствии с приведенными критериями:
+1.	Фамилия Имя Отчество (текстовое поле от 3-х до 40 символов без цифр, первая буква каждого слова заглавная)
+2.	Город (обязательно с помощью RADIO, не менее 5-ти)
+3.	Адрес (текстовое поле в формате г. XXXXX, ул. XXXXX, кв. XXX)
+4.	Телефон (в виде 8 555-555-5555 или +7 55-55-55-55-55 с пробелами или без)
+5.	Адрес электронной почты
+6.	Номер карточки пенсионного страхования (СНИЛС)
+7.	Наименование товара (обязательно с помощью SELECT, не менее 5 названий)
+8.	Количество (только целое число)
+9.	Кнопка для отправки информации
+10.	Кнопка для очистки формы
+-->
+</body>
+
+</html>

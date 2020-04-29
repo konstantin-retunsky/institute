@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5f9c654-b7de-4337-995a-ec9f3193272d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1UZJfEC9Ov9JWqLuh0J5TXe854n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5f9c654-b7de-4337-995a-ec9f3193272d" name="Default Changelist" comment="" />
+      <created>1575558288155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575558288155</updated>
+      <workItem from="1575558298057" duration="7477000" />
+      <workItem from="1576517941182" duration="620000" />
+      <workItem from="1576518829537" duration="5495000" />
+      <workItem from="1576578374078" duration="45000" />
+      <workItem from="1576716462873" duration="1248000" />
+      <workItem from="1576721170554" duration="3137000" />
+      <workItem from="1576772737628" duration="1376000" />
+      <workItem from="1576775366049" duration="4055000" />
+      <workItem from="1576785509118" duration="768000" />
+      <workItem from="1576829888658" duration="15592000" />
+      <workItem from="1576854684721" duration="8023000" />
+      <workItem from="1578641404964" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="167" key="#Inspections" timestamp="1575563055412">
+      <screen x="0" y="39" width="1739" height="939" />
+    </state>
+    <state x="462" y="167" key="#Inspections/0.39.1739.939@0.39.1739.939" timestamp="1575563055412" />
+    <state x="462" y="167" key="#PHP" timestamp="1575560442730">
+      <screen x="0" y="39" width="1739" height="939" />
+    </state>
+    <state x="462" y="167" key="#PHP/0.39.1739.939@0.39.1739.939" timestamp="1575560442730" />
+    <state x="566" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1576855077500">
+      <screen x="0" y="31" width="1739" height="947" />
+    </state>
+    <state x="566" y="329" key="com.intellij.ide.util.TipDialog/0.31.1739.947@0.31.1739.947" timestamp="1576855077500" />
+    <state x="527" y="233" key="run.anything.popup" timestamp="1576723778926">
+      <screen x="0" y="31" width="1739" height="947" />
+    </state>
+    <state x="527" y="233" key="run.anything.popup/0.31.1739.947@0.31.1739.947" timestamp="1576723778926" />
+  </component>
+</project>

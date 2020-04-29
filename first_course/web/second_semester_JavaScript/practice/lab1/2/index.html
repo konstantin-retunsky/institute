@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+     <meta charset="utf-8">
+     <title>first practical</title>
+     <script type="text/javascript" src="javaScript.js"></script>
+     <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+     <!--
+     Радиокнопки: Картинка 1, Картинка 2, Картинка 3. (файлы картинок поместить в один каталог с HTML-страницей и вставить  с помощью тэгов IMG)
+     Поля ввода: Ширина, Высота
+     Кнопка: Вывести картинку
+
+     Отображается выбранная картинка в размерах « Ширина » и « Высота ».
+      -->
+
+     <form name="rbtnImg">
+          <div class="img1">
+               <img src="img1.jpg" class="size-img">
+               <input type="radio" name="rbtn" value="male"><br>
+          </div>
+          <div class="img2">
+               <img src="img2.jpg" class="size-img">
+               <input type="radio" name="rbtn" value="female"><br>
+          </div>
+          <div class="img3" >
+               <img src="img3.jpg" class="size-img">
+               <input type="radio" name="rbtn" value="female"><br>
+          </div>
+          <input type=text name="width_num" >
+          <input type=text name="height_num">
+        <input type=button onClick="result()" value="Обработка формы">
+
+     </form>
+
+     <div id="resultTest" > </div>
+
+</body>
+
+</html>

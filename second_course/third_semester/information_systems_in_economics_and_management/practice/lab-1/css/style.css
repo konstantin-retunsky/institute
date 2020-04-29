@@ -1,0 +1,11 @@
+tr td {
+  border: solid 1px black;
+  padding: 7px;
+  text-align: center;
+}
+
+
+
+input[type='number'] {
+    -moz-appearance: textfield;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>lab5</title>
+     <link rel="stylesheet" href="style.css">
+     <script type="text/javascript" src="javaScript.js"></script>
+</head>
+<body>
+     <form id="fMain" name="fMain">
+
+          <h2>Анкета переводчика</h2>
+
+          <table>
+               <tr>
+                    <td>Язык</td>
+                    <td><select id="languages" size="2"multiple="multiple" name="languages">
+                         <option value="1">английский</option>
+                         <option value="2">французский</option>
+                         <option value="3">немецкий</option>
+                         <option value="4">китайский</option>
+                         <option value="5">итальянский</option>
+                         <option value="6">испанский</option>
+                    </select></td>
+                    <td>Стоимость</td>
+                    <td><input name="cost" type="text" disabled></td>
+               </tr>
+               <tr>
+                    <td>Статус</td>
+                    <td><select id="experience" name="experience" onclick="priсpreOne_hour()">
+                         <option value="1">студент</option>
+                         <option value="2">аспирант</option>
+                         <option value="3">школьный преподаватель</option>
+                         <option value="4">преподаватель вуза</option>
+                         <option value="5">частный преподаватель</option>
+                         <option value="6">носитель языка</option>
+                    </select></td>
+                    <td>Количество часов</td>
+                    <td><input name="time" onkeyup="calcDisabled()" type="text"></td>
+               </tr>
+          </table>
+
+          Вознаграждение<textarea  name="outputTextarea" rows="8" cols="40" disabled></textarea>
+
+          <div class="asd">
+               <input class="appearance" name="calc" type="button" value="Calc" disabled onclick="finalPrice()">
+               <input class="appearance" onclick="document.getElementById('fMain').calc.disabled = true;" type="reset"  value="rest">
+          </div>
+
+     </form>
+</body>
+</html>

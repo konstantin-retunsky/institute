@@ -1,0 +1,14 @@
+form{
+  padding-top:  1px;
+  margin: auto;
+  width: 500px;
+  height: 530px;
+  background-color: grey;
+  
+}
+form li {
+  margin: 15px 0 15px 0;
+}
+.buttonStyle {
+  list-style-type: none;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Document</title>
+   <script src="javaScript.js"></script>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <form name="fMain" id="fMain">
+      <h1 style="color: green">Страничка по заказу</h1>
+      <fieldset>
+         <legend>Параметры страницы</legend>
+         Художник <select name="painter" id="painter">
+            <option value="0">Казими́р Севери́нович Мале́вич</option>
+            <option value="1">Ма́уриц Корне́лис Э́шер</option>
+            <option value="2">Уи́льям Стэ́нли Ми́ллиган</option>
+         </select> <br>
+         Подпись<input type="text" name="input" id="input">
+
+         <table class="table table-light">
+               <tr>
+                  <td>Картина Для фона</td>
+                  <td>Параметры текста</td>
+               </tr>
+               <tr>
+                  <td><input type="radio" name="radio" value="0">pic 1</td>
+                  <td><input type="checkbox" name="chbFontItalics" value="0">Курсив/нет</td>
+               </tr>
+               <tr>
+                  <td><input type="radio" name="radio" value="1">pic 2</td>
+                  <td><input type="checkbox" name="chbTextDecoration" value="1">Подчеркивание/нет</td>
+               </tr>
+               <tr>
+                  <td><input type="radio" name="radio" value="2">pic 3</td>
+                  <td><input type="checkbox" name="chbFontBold" value="2">Жирный/нет</td>
+               </tr>
+         </table>
+      </fieldset>
+      <input type="button" id="btnShow" onclick="result()" value="показать">
+      <input type="reset"  id="btnRest" value="Сброс">
+      
+   </form>
+</body>
+</html>

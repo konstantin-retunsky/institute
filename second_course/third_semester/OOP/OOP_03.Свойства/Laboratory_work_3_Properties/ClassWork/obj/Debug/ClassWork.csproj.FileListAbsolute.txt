@@ -1,0 +1,6 @@
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\ClassWork\bin\Debug\ClassWork.exe.config
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\ClassWork\bin\Debug\ClassWork.exe
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\ClassWork\bin\Debug\ClassWork.pdb
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\ClassWork\obj\Debug\ClassWork.exe
+D:\ValiuS\Desktop\OOP\OOP_03.Свойства\Laboratory_work_3_Properties\ClassWork\obj\Debug\ClassWork.pdb

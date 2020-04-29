@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+	font-size: 40px;
+    padding: 80px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+}
+
+
+main {  
+    display: -ms-flexbox; 
+    display: flex;
+    -ms-flex-wrap: wrap; 
+    flex-wrap: wrap;
+}
+
+.menu {
+    -ms-flex: 30%;
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.content {   
+    -ms-flex: 70%;
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+}
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+}
+
+</style>
+</head>
+<body>
+
+<header>
+  <h1>My Website</h1>
+</header>
+
+
+<main>
+  <div class="menu">
+      <h2>About Me</h2>
+      
+  </div>
+  <div class="content">
+      <h2>TITLE HEADING</h2>
+  </div>
+</main>
+
+<footer>
+  <h2>Footer</h2>
+</footer>
+
+</body>
+</html>

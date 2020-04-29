@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Home</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="sidebar">
+
+	<div class="sidebar_buttons join_site" onclick="document.getElementById('id01').style.display='block'" id="id011"
+	     style="width:auto;">Sign Up
+	</div>
+	<div class="sidebar_buttons join_site" onclick="document.getElementById('id02').style.display='block'" id="id012"
+	     style="width:auto;">Log In
+	</div>
+	<div class="sidebar_buttons" id="id03" onclick="Exit()" style="display: none;" style="width:auto;">Log Out</div>
+	<div class="sidebar_buttons" onclick="document.location.href = 'index.html';">Home</div>
+	<div class="sidebar_buttons" onclick="document.location.href = 'basket.html';" id="basket" style="display: none;">
+		Basket
+	</div>
+
+	<div id="id01" class="modal">
+		<span onclick="document.getElementById('id01').style.display='none';document.getElementById('clear-email').value='';" class="close" title="Close Modal">×</span>
+		<form class="modal-content">
+			<div class="container">
+				<h1>Sign Up</h1>
+				<p>Please fill in this form to create an account.</p>
+				<hr>
+				<label for="login"><b>Login</b></label>
+				<input class="input_form" type="text" placeholder="Enter Login" name="login" required>
+
+				<label for="password"><b>Password</b></label>
+				<input class="input_form" type="password" placeholder="Enter Password" name="password" required>
+
+				<label for="email"><b>Email</b></label>
+				<input class="input_form" type="text" placeholder="Enter Email" id="clear-email" name="email" required>
+
+				<div class="clearfix">
+					<button type="button" onclick="document.getElementById('id01').style.display='none';document.getElementById('clear-email').value='';" class="cancelbtn">
+						Cancel
+					</button>
+					<button type="button" class="signupbtn" onclick="Connection(document.forms[0].elements)">Sign Up</button>
+				</div>
+			</div>
+		</form>
+	</div>
+
+	<div id="id02" class="modal">
+		<span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">×</span>
+		<form class="modal-content">
+			<div class="container">
+				<h1>Log In</h1>
+				<p>Please fill in this form to enter your account.</p>
+				<hr>
+				<label for="login"><b>Login</b></label>
+				<input class="input_form" type="text" placeholder="Enter Login" name="login" required>
+
+				<label for="password"><b>Password</b></label>
+				<input class="input_form" type="password" placeholder="Enter Password" name="password" required>
+
+
+				<div class="clearfix">
+					<button type="button" onclick="document.getElementById('id02').style.display='none'" class="cancelbtn">
+						Cancel
+					</button>
+					<button type="button" class="signupbtn" onclick="Connection(document.forms[1].elements)">Log In</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+
+
+<main>
+
+	<h2>Товары</h2>
+	<div class="products">
+
+		<div class="product-item">1</div>
+		<div class="product-item">
+
+
+		</div>
+		<div class="product-item">3</div>
+		<div class="product-item">4</div>
+		<div class="product-item">5</div>
+		<div class="product-item">6</div>
+		<div class="product-item">7</div>
+		<div class="product-item">8</div>
+
+	</div>
+
+</main>
+
+
+</body>
+
+<script>
+    var modal = document.getElementById('id01');
+
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+
+    var modal2 = document.getElementById('id02');
+
+    window.onclick = function (event) {
+        if (event.target == modal2) {
+            modal2.style.display = "none";
+        }
+    }
+</script>
+
+<script src="javascript/script.js"></script>
+
+
+
+</html>

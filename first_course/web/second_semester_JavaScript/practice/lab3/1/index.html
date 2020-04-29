@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+     <meta charset="utf-8">
+     <title>lab3_1</title>
+     <script type="text/javascript" src="javaScript.js"></script>
+     <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+     <form name="pricePhoto">
+          <h2>Печать фотографий</h2>
+          <fieldset class="format">
+               <legend>Формат</legend>
+               <input type="radio" name="rbForm">&nbsp 9x12 <br>
+               <input type="radio" name="rbForm">&nbsp 10x15 <br>
+               <input type="radio" name="rbForm">&nbsp 18x24
+          </fieldset>
+          <fieldset class="paper">
+               <legend>Бумага</legend>
+               <input type="radio" name="rbPaper">&nbsp Матовая<br>
+               <input type="radio" name="rbPaper">&nbsp Глянцевая
+          </fieldset>
+
+          <input class="btnCalc" type="button" onClick="result()" value="Вычислить!">
+          <div class="footerForm">
+               <p> <br> Количество &nbsp&nbsp&nbsp<input type="text" name="textAmount"> </p>
+               <p> <textarea class="resultArea" name="test" rows="8" cols="55"></textarea> </p>
+          </div>
+     </form>
+</body>
+
+</html>

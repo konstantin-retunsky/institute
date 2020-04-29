@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>replace lab-1</title>
+   <link rel="stylesheet" href="css/normalize.css">
+   <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+   <form>
+      <h1>Анкета покупателя</h1>
+      <ol>
+         <li>
+            <label>
+               Фамилия <input type="text" name="" id="full-name-user">
+            </label>
+         </li>
+         <li>
+            <label>
+               Имя
+               <input type="text" id="name-user">
+            </label>
+         </li>
+         <li>
+            <label>
+               Возраст
+               <select id="age-user">
+                  <option>12</option>
+                  <option>23</option>
+                  <option>24</option>
+                  <option>25</option>
+                  <option>33</option>
+               </select>
+            </label>
+         </li>
+         <li>
+            Я:
+            <label>
+               <input type="radio" id="old-new-user" name="oldUser" selected>
+               Зарегестированный покупатель
+            </label>
+            <label>
+               <input type="radio" id="old-new-user" name="oldUser">
+               Впервые пользуюсь услугами магазина
+            </label>
+         </li>
+         <li>
+            Меня интересуют:
+            <label>
+               <input type="checkbox" class="interes-user"> Книги
+            </label>
+            <label>
+               <input type="checkbox" class="interes-user"> Музыка на CD
+            </label>
+            <label>
+               <input type="checkbox" class="interes-user"> Программное обеспечение
+            </label>
+            <label>
+               <input type="checkbox" class="interes-user"> Канцелярские товары
+            </label>
+            <label>
+               <input type="checkbox" class="interes-user"> Сувениры
+            </label>
+            <label>
+               Другое:<input type="text" class="interes-user">
+            </label>
+         </li>
+         <li>
+            <label>
+               Мои пожелания и рекомендации:
+               <textarea id="wishes-user" cols="34" rows="10"></textarea>
+            </label>
+         </li>
+      </ol>
+      
+      <button type="submit">Отправить анкету</button>
+      <button type="reset">Обновить анкету</button>
+      
+   </form>
+</body>
+<script src="js/javascript.js"></script>
+
+</html>

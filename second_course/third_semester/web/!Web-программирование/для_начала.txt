@@ -1,0 +1,5 @@
+myblaze.ru/php_lessons/
+
+”рок 16. PHP Ч POST & GET
+”рок 13. PHP Ч ÷икл For
+”рок 8. PHP Ч ”словный оператор

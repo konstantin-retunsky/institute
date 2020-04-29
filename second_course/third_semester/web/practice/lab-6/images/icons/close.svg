@@ -1,0 +1,51 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="348.3330078125" height="348.3340148925781" style="" xml:space="preserve"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g class="currentLayer" style=""><title>Layer 1</title><g id="svg_1" class="" opacity="0.75" fill="#000000" fill-opacity="1" filter="" stroke-width="2" stroke="#1a1aeb" stroke-opacity="1">
+	<path d="M339.44915771484375,69.18903475999832 L233.90618896484375,174.74302798509598 l105.54299926757812,105.54900360107422 c15.699000358581543,15.704999923706055 15.699000358581543,41.14500045776367 0,56.849998474121094 c-7.843999862670898,7.843999862670898 -18.128000259399414,11.769000053405762 -28.406999588012695,11.769000053405762 c-10.295999526977539,0 -20.58099937438965,-3.9189999103546143 -28.41900062561035,-11.769000053405762 L177.05718994140625,231.58104068040848 L71.49917602539062,337.14102298021317 c-7.8429999351501465,7.843999862670898 -18.128000259399414,11.769000053405762 -28.416000366210938,11.769000053405762 c-10.28499984741211,0 -20.562999725341797,-3.9189999103546143 -28.413000106811523,-11.769000053405762 c-15.699000358581543,-15.697999954223633 -15.699000358581543,-41.138999938964844 0,-56.849998474121094 l105.54000091552734,-105.54900360107422 L14.66417407989502,69.18903475999832 c-15.699000358581543,-15.699000358581543 -15.699000358581543,-41.14500045776367 0,-56.84400177001953 c15.696000099182129,-15.687000274658203 41.12699890136719,-15.687000274658203 56.82899856567383,0 l105.56300354003906,105.55400085449219 L282.6111755371094,12.345034897327423 c15.704999923706055,-15.687000274658203 41.138999938964844,-15.687000274658203 56.832000732421875,0 C355.1481628417969,28.044036209583282 355.1481628417969,53.49003344774246 339.44915771484375,69.18903475999832 z" id="svg_2" opacity="0.75" fill="#000000" fill-opacity="1" filter="" stroke-width="2" stroke="#1a1aeb" stroke-opacity="1"/>
+</g><g id="svg_3">
+</g><g id="svg_4">
+</g><g id="svg_5">
+</g><g id="svg_6">
+</g><g id="svg_7">
+</g><g id="svg_8">
+</g><g id="svg_9">
+</g><g id="svg_10">
+</g><g id="svg_11">
+</g><g id="svg_12">
+</g><g id="svg_13">
+</g><g id="svg_14">
+</g><g id="svg_15">
+</g><g id="svg_16">
+</g><g id="svg_17">
+</g></g><defs><filter id="f038" inkscape:label="Button" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" x="0" y="0" width="1" height="1" inkscape:menu="Bevels" inkscape:menu-tooltip="Soft bevel, slightly depressed middle" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.3" in="SourceAlpha" result="result0"/>
+            <feMorphology in="SourceAlpha" radius="6.6" result="result1"/>
+            <feGaussianBlur stdDeviation="8.9" in="result1"/>
+            <feColorMatrix id="feColorMatrix2861" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0" result="result91"/>
+            <feComposite in="result0" operator="out" result="result2" in2="result91"/>
+            <feGaussianBlur stdDeviation="1.7" result="result4"/>
+            <feDiffuseLighting surfaceScale="10">
+                <feDistantLight azimuth="225" elevation="45"/>
+            </feDiffuseLighting>
+            <feBlend id="feBlend2863" in2="SourceGraphic" mode="multiply"/>
+            <feComposite in2="SourceAlpha" operator="in" result="result3"/>
+            <feSpecularLighting in="result4" surfaceScale="5" specularExponent="17.9">
+                <feDistantLight azimuth="225" elevation="45"/>
+            </feSpecularLighting>
+            <feComposite in2="result3" operator="atop"/>
+        </filter><linearGradient id="svg_18"><stop stop-color="#222222" stop-opacity="1" offset="0"/><stop stop-color="#dddddd" stop-opacity="1" offset="1"/></linearGradient></defs></svg>

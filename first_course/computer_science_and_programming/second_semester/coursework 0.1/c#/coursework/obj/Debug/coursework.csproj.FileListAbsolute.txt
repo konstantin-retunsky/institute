@@ -1,0 +1,29 @@
+D:\institute\computer science and programming\second semester\coursework\coursework\bin\Debug\coursework.exe.config
+D:\institute\computer science and programming\second semester\coursework\coursework\bin\Debug\coursework.exe
+D:\institute\computer science and programming\second semester\coursework\coursework\bin\Debug\coursework.pdb
+D:\institute\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+D:\institute\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.fMain.resources
+D:\institute\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+D:\institute\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+D:\institute\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+D:\institute\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.exe
+D:\institute\computer science and programming\second semester\coursework\coursework\obj\Debug\coursework.pdb
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\bin\Debug\coursework.exe.config
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\bin\Debug\coursework.exe
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\bin\Debug\coursework.pdb
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\obj\Debug\coursework.fMain.resources
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\obj\Debug\coursework.Properties.Resources.resources
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\obj\Debug\coursework.exe
+D:\institute\computer science and programming\second semester\coursework\c#\coursework\obj\Debug\coursework.pdb
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\bin\Debug\coursework.exe.config
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\bin\Debug\coursework.exe
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\bin\Debug\coursework.pdb
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\obj\Debug\coursework.fMain.resources
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\obj\Debug\coursework.Properties.Resources.resources
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\obj\Debug\coursework.exe
+D:\institute\first course\computer science and programming\second semester\coursework 0.1\c#\coursework\obj\Debug\coursework.pdb

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Пример использования HTML тега <label> </title>
+</head>
+<body>
+	<form>
+		<label for = "yes">Да</label> <!--Здесь мы создаём метку для тега input c id =yes-->
+		<input type = "radio" id = "yes" name = "choice" value = "yes" >
+		<label for = "no">Нет</label><!--Здесь мы создаём метку для тега input c id =no-->
+		<input type = "radio" id = "no" name = "choice" value = "no">
+	</form>
+	<br>
+	<form>
+		<label>Да <input type = "radio" name = "choice2" value = "yes"> </label><!--Здесь мы  помещаем теги <input>
+		внутрь тегов <label> (при этом атрибут for не требуется)-->
+		<label>Нет <input type = "radio"name = "choice2" value = "no"> </label>
+	</form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\bin\Debug\Homework.exe.config
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\bin\Debug\Homework.exe
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\bin\Debug\Homework.pdb
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\obj\Debug\Homework.exe
+D:\ValiuS\Desktop\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\obj\Debug\Homework.pdb
+D:\institute\second course\third semester\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\bin\Debug\Homework.exe.config
+D:\institute\second course\third semester\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\bin\Debug\Homework.exe
+D:\institute\second course\third semester\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\bin\Debug\Homework.pdb
+D:\institute\second course\third semester\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\institute\second course\third semester\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+D:\institute\second course\third semester\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\obj\Debug\Homework.exe
+D:\institute\second course\third semester\OOP\OOP_01.Простые классы\Laboratory_work_1 _Simple_classes\Homework\obj\Debug\Homework.pdb
